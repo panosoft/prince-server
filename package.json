@@ -4,7 +4,7 @@
   "description": "A PrinceXml rendering server.",
   "main": "bin/index.js",
   "bin": {
-    "@panosoft/prince-server": "index.js"
+    "prince-server": "bin/index.js"
   },
   "directories": {
     "test": "test"
