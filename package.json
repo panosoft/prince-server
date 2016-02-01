@@ -1,0 +1,17 @@
+{
+  "name": "@panosoft/prince-server",
+  "version": "0.0.0",
+  "description": "A PrinceXml rendering server.",
+  "main": "bin/index.js",
+  "bin": {
+    "@panosoft/prince-server": "index.js"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
