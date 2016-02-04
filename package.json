@@ -1,6 +1,6 @@
 {
   "name": "@panosoft/prince-server",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A PrinceXml rendering server.",
   "main": "bin/index.js",
   "bin": {
